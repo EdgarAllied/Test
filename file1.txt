@@ -1,1 +1,1 @@
-Added some code
+Git test. Staging and commiting with the same command.
