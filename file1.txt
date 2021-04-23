@@ -1,1 +1,1 @@
-Git test. Staging and commiting with the same command.
+Git test. Staging and commiting with the same command.j
